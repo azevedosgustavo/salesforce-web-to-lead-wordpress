@@ -4,7 +4,7 @@
 This script was developed by **Gustavo Azevedo** and **CASPTI**.  
 If you need support or would like to connect, feel free to reach out through the links below:  
 
-- E-mail: azevedosgustavo@gmail.com
+- E-mail: [azevedosgustavo@gmail.com]
 - GitHub: [https://github.com/azevedosgustavo]  
 
 ---
